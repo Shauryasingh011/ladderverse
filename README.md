@@ -21,7 +21,7 @@ Experience the game in action by visiting the live demo:
 
 👉 [https://ladderverse.vercel.app](https://ladderverse.vercel.app)
 
----
+-----
 
 ## 🖼️ Screenshots
 
